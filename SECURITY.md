@@ -2,8 +2,8 @@
 Fixing a file makes it more accessible to be used when fetched.
 |Last Fix | Description          |
 | ------- | ------------------ |
-| soul essence adventure's `styles.css` | fixed up to line `∞`, all files fixed |
-| soul essence adventure's `index.html`| fixed up to line `10`, last file was `styles.css` |
+| soul essence adventure's `game.js` | `pre.html` has resources linked incorrectly |
+| soul essence adventure's `index.html`| fixed up to line `22`, need to fix `pre.html` mentioned in `game.js` |
 
 ## Reporting a Vulnerability
 
