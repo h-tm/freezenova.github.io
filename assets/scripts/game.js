@@ -59,6 +59,6 @@ if (canRedir && result.inIframe && !result.sameDomain) {
 	{
 		// Redirect to pre.html if the page is in an iframe and not on the same domain
 		console.log("pre");
-		window.location.href = './pre.html';
+		window.location.href = 'https://raw.githubusercontent.com/h-tm/freezenova.github.io/refs/heads/main/games/2022/unity2/soul-essence-adventure/pre.html';
 	}
 }
