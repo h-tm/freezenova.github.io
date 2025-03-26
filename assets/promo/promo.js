@@ -17,9 +17,9 @@ class AdManager {
     this.onRewardedFail = () => {};
     this.onRewardedClose = () => {};
 	
-	this.promoLocation = "/assets/promo/";
+	this.promoLocation = "https://raw.githubusercontent.com/h-tm/freezenova.github.io/refs/heads/main/assets/promo/";
 	  
-	this.useAbsoluteLinks = false;
+	this.useAbsoluteLinks = true;
 	
     this.init();
   }
@@ -31,7 +31,7 @@ class AdManager {
 	 const path = window.location.pathname;
 	 if (path != null)
 	 {
-		this.promoLocation = "/assets/promo/";
+		this.promoLocation = "https://raw.githubusercontent.com/h-tm/freezenova.github.io/refs/heads/main/assets/promo/";
 	 }
 	  
   }
