@@ -2,8 +2,8 @@
 Fixing a file makes it more accessible to be used when fetched.
 |Last Fix | Description          |
 | ------- | ------------------ |
-| soul essence adventure's `game.js` | `pre.html` has resources linked incorrectly |
-| soul essence adventure's `index.html`| fixed up to line `22`, need to fix `pre.html` mentioned in `game.js` |
+| soul essence adventure's `pre.html` | `promo.js` has resources linked incorrectly |
+| soul essence adventure's `index.html`| fixed up to line `22`, need to fix `promo.js` mentioned in `pre.html` mentioned in `game.js` |
 
 ## Reporting a Vulnerability
 
